@@ -7,7 +7,7 @@ published-at = "0x70e34fcd390b767edbddaf7573450528698188c84c5395af8c4b12e3e37622
 git = "https://github.com/MystenLabs/sui.git"
 subdir = "crates/sui-framework/packages/sui-framework"
 # testnet-1.0.0
-rev = "ae1212baf8f0837e25926d941db3d26a61c1bea2"
+rev = "mainnet"
 
 [dependencies.Permissions]
 local = "./../permissions"
