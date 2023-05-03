@@ -26,7 +26,7 @@ local = "./../allowlist"
 [dependencies.Request]
 local = "./../request"
 
-[dependencies.Kiosk]
+[dependencies.KioskOb]
 local = "./../kioskOb"
 
 [dependencies.LiquidityLayer]
